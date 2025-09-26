@@ -15,7 +15,7 @@ The simplified model illustrates the core physical mechanisms of blackbody heati
 - Radiation  
 - Proportional control for temperature regulation  
 
-This provides a minimal, approachable framework for understanding how energy flows in the system.  
+This demonstrates the basic physical principles that govern heat transfer within the blackbody's system.
 
 ---
 ![full model](https://github.com/user-attachments/assets/40a60c57-909b-47de-9d6d-54d95c300226)
