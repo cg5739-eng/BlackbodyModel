@@ -1,6 +1,7 @@
 # BlackbodyModel  
 
 This repository contains a **self-consistent heat transfer model in MATLAB** for exploring the behavior of blackbody thermal sources.  
+
 The model solves the heat equation in two spatial dimensions and time, while also incorporating empirical models for thermoelectric coolers (TECs) and heat sinks. This allows for rapid evaluation of thermal spatial uniformity as a function of design parameters, as well as implementation of thermal control logic to optimize rise, settle, and slew times and improve temperature stability.  
 
 For demonstration purposes, the examples provided here use modified physical constants and time scales (intentionally unrealistic). They show a temperature distribution at six snapshots in equally spaced time intervals. In each case, the blackbody is heated to a target temperature of **500 K**.
@@ -24,3 +25,5 @@ This demonstrates what a higher-fidelity model looks like for the blackbody's su
 - Visualization of spatial temperature uniformity across the surface, as well as percentage uniformity  
 
 This makes it possible to study how design choices and control strategies influence the performance of the blackbody, specifically in terms of uniformity and rise/settle/slew time.
+
+*See the documentation for a detailed explanation of the mathematical principles and their implementation in the code*
