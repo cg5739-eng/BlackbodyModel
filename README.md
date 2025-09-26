@@ -26,4 +26,4 @@ This demonstrates what a higher-fidelity model looks like for the blackbody's su
 
 This makes it possible to study how design choices and control strategies influence the performance of the blackbody, specifically in terms of uniformity and rise/settle/slew time.
 
-*See the documentation for a detailed explanation of the mathematical principles and their implementation in the code*
+*See the [documentation](./bb_model_documentation.pdf) for a detailed explanation of the mathematical principles and their implementation in the code*
